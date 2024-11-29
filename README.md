@@ -1,1 +1,2 @@
-# -I
+# cd
+git init
